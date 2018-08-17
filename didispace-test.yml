@@ -6,6 +6,6 @@ spring:
 server:
   port: 7001
   
-from: git-test-1.0
+from: git-test-1.0 develop
   
 
